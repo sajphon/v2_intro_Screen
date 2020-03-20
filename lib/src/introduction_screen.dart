@@ -5,9 +5,9 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:dots_indicator/dots_indicator.dart';
-import 'package:introduction_screen/src/model/page_view_model.dart';
-import 'package:introduction_screen/src/ui/intro_button.dart';
-import 'package:introduction_screen/src/ui/intro_page.dart';
+import 'package:v2_intro_screen/src/model/page_view_model.dart';
+import 'package:v2_intro_screen/src/ui/intro_button.dart';
+import 'package:v2_intro_screen/src/ui/intro_page.dart';
 
 class IntroductionScreen extends StatefulWidget {
   /// All pages of the onboarding
@@ -210,8 +210,8 @@ class IntroductionScreenState extends State<IntroductionScreen> {
           ),
           Positioned(
             bottom: 16.0,
-            left: 16.0,
-            right: 16.0,
+            left: 0.0,
+            right: 0.0,
             child: SafeArea(
               child: Row(
                 children: [

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:introduction_screen/introduction_screen.dart';
+import 'package:v2_intro_screen/introduction_screen.dart';
 
 void main() => runApp(App());
 

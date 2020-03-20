@@ -1,7 +1,7 @@
-name: introduction_screen
+name: v2_intro_screen
 description: Introduction/Onboarding package for flutter app with some customizations possibilities
 version: 1.0.8
-homepage: https://github.com/pyozer/introduction_screen
+homepage: https://github.com/sajphon/v2_intro_Screen
 
 environment:
   sdk: ">=2.2.2 <3.0.0"
